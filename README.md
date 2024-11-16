@@ -1,2 +1,2 @@
-# Persist-Link
-**PersistLink** is a Go library implementing a persistent, immutable data structure.
+# PersistLink: A Persistent and Immutable Data Structure in Go
+
