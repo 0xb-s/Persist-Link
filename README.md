@@ -4,4 +4,4 @@ PersistLink is a Go library for working with immutable linked lists. It provides
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
