@@ -16,7 +16,7 @@ Quick usage example :
 
 ```go
 
-// Create a list of strings
+	// Create a list of strings
 	list := lib.Empty[string]().Append("apple").Append("banana").Append("cherry")
 
 	// Create another list of strings
